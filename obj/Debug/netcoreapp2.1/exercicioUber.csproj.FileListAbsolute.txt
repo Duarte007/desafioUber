@@ -1,0 +1,11 @@
+D:\Projetos Programação\exercicioUber\obj\Debug\netcoreapp2.1\exercicioUber.csprojAssemblyReference.cache
+D:\Projetos Programação\exercicioUber\obj\Debug\netcoreapp2.1\exercicioUber.csproj.CoreCompileInputs.cache
+D:\Projetos Programação\exercicioUber\obj\Debug\netcoreapp2.1\exercicioUber.AssemblyInfoInputs.cache
+D:\Projetos Programação\exercicioUber\obj\Debug\netcoreapp2.1\exercicioUber.AssemblyInfo.cs
+D:\Projetos Programação\exercicioUber\bin\Debug\netcoreapp2.1\exercicioUber.deps.json
+D:\Projetos Programação\exercicioUber\bin\Debug\netcoreapp2.1\exercicioUber.runtimeconfig.json
+D:\Projetos Programação\exercicioUber\bin\Debug\netcoreapp2.1\exercicioUber.runtimeconfig.dev.json
+D:\Projetos Programação\exercicioUber\bin\Debug\netcoreapp2.1\exercicioUber.dll
+D:\Projetos Programação\exercicioUber\bin\Debug\netcoreapp2.1\exercicioUber.pdb
+D:\Projetos Programação\exercicioUber\obj\Debug\netcoreapp2.1\exercicioUber.dll
+D:\Projetos Programação\exercicioUber\obj\Debug\netcoreapp2.1\exercicioUber.pdb
