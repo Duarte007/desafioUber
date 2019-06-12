@@ -16,7 +16,6 @@ namespace ExecUber {
 
             respostas = getAllAnswers(length, salarios, respostas);
 
-
             showDistincts(salarios, length, respostas);
                 
             Console.WriteLine("\n\nPress any key to exit.");
